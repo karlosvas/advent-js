@@ -68,3 +68,5 @@ console.log(moveTrain(board, "L"));
 console.log(moveTrain(board, "R"));
 // ➞ 'none'
 // El tren se mueve hacia derecha y hay un espacio vacío en la derecha
+
+export {};
